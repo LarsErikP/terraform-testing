@@ -1,0 +1,7 @@
+clouds:
+  skyhigh:
+    auth:
+      auth_url: https://api.skyhigh.iik.ntnu.no:5000/v3
+      project_name: PRIV_larsep
+      user_domain_name: NTNU
+      project_domain_name: NTNU
